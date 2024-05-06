@@ -1,4 +1,4 @@
-# Cardiovascular_Disease_Prediction
+# Cardiovascular Disease Prediction
 
 ## Problem Definition:
 
@@ -51,3 +51,17 @@
 ### Predict variable (desired target):
 
     • 10-year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”) – DV
+
+## Models Used:
+
+ 1. Logistic Regression 
+ 2. Random Forest 
+ 3. Support Vector Machine 
+ 4. XGBoost
+ 5. Voting and stacking classifier
+
+## Final Model:
+
+https://github.com/PulkitGigoo99/Cardiovascular_Disease_Prediction/assets/134033609/ee0da950-ccb8-4ed0-9577-1f4ea3c39de4
+
+
