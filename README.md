@@ -62,6 +62,6 @@
 
 ## Final Model:
 
-https://github.com/PulkitGigoo99/Cardiovascular_Disease_Prediction/assets/134033609/ee0da950-ccb8-4ed0-9577-1f4ea3c39de4
+![Model_CVD](https://github.com/PulkitGigoo99/Cardiovascular_Disease_Prediction/assets/134033609/df818dc8-8b48-4871-80a8-6a4cec44cbe4)
 
 
